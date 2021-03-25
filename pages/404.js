@@ -55,12 +55,6 @@ export default function NotFound() {
             )}
           </button>
           <div>
-            <NextLink href="/">
-              <a className="p-1 text-gray-900 sm:p-4 dark:text-gray-100">
-                Home
-              </a>
-            </NextLink>
-           
             <NextLink href="mailto:kaan@kaan.sh">
               <a className="p-1 text-gray-900 sm:p-4 dark:text-gray-100">Contact</a>
             </NextLink>
@@ -71,7 +65,7 @@ export default function NotFound() {
         <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
           404 – Unavailable
         </h1>
-        <Link href="/">
+        <Link href="https://kaan.sh">
           <a className="w-64 p-1 mx-auto font-bold text-center text-black border border-gray-500 rounded-lg sm:p-4 dark:text-white">
             Return Home
           </a>
