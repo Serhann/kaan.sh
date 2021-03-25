@@ -2,7 +2,7 @@
 <h2 align="center">kaan.sh</h2> 
 </p>
 
-🚀 Source Code My Personal Website
+<p align="center">🚀 Source Code My Personal Website</p>
 
 
 
