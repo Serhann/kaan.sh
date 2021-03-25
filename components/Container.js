@@ -71,11 +71,6 @@ export default function Container({ children, dir, pos, atHome, isMobile }) {
             )}
           </button>
           <div>
-            <NextLink href="/">
-              <a className="p-1 text-gray-900 sm:p-4 dark:text-gray-100">
-                Home
-              </a>
-            </NextLink>
             <NextLink href="mailto:kaan@kaan.sh">
               <a className="p-1 text-gray-900 sm:p-4 dark:text-gray-100">Contact</a>
             </NextLink>
