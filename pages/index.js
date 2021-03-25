@@ -87,7 +87,7 @@ export default function Home() {
                 About
               </h1>
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
-              Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the Ceo & Founder of the Sanvia Digital media company. You can click the mail icon to contact me.
+              Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the CEO & Founder of the Sanvia Digital media company. You can click the mail icon to contact me.
               </h2>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 Contact
