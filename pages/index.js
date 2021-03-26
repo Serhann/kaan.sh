@@ -105,7 +105,7 @@ export default function Home() {
                 Contact
               </h1>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
+              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>kaanmutlu</code></a>
