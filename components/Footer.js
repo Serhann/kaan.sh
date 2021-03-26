@@ -12,7 +12,7 @@ const ExternalLink = ({ href, children }) => (
 export default function Footer() {
   return (
     <footer className="flex flex-col items-center mb-8">
-      
+      <p>Made With 🖤 by Kaan | Created With Nuxt.JS & TailwindCSS</p>
     </footer>
   );
 }
