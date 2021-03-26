@@ -105,7 +105,7 @@ export default function Home() {
         <img src={lastFM.song.art} class="rounded-lg ml-4 w-16 h-16" />
         <div class="flex flex-col">
           <h1 class="text-black">Listening to <strong>{lastFM.song.name}</strong> by <strong>{lastFM.song.artist}</strong></h1>
-          <h1 class="text-sm text-black">Spotify</h1>
+          <h1 class="text-sm text-black"><img src="spotify.svg" width="12" height="12" /> Spotify</h1>
         </div>
       </div>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
