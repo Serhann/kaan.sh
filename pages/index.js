@@ -62,8 +62,8 @@ export default function Home() {
                     </g>
                   </svg>
                 </ExternalLink>
-                <ExternalLink href="https://www.linkedin.com/in/kaanmutlu17/">
-                  <span className="sr-only">LinkedIn</span>
+                <ExternalLink href="https://keybase.io/kaanmutlu">
+                  <span className="sr-only">Keybase</span>
                   <svg className="w-5 h-5" viewBox="0 0 24 24">
                     <g
                       fill="none"
@@ -72,7 +72,7 @@ export default function Home() {
                       strokeLinecap="round"
                       strokeLinejoin="round"
                     >
-                      <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
+                      <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4" />
                       <rect x="2" y="9" width="4" height="12" />
                       <circle cx="4" cy="4" r="2" />
                     </g>
@@ -110,13 +110,13 @@ export default function Home() {
               <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>@kaanmutlu</code></a>
+              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>kaanmutlu</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-twitter"/> Twitter: <a href="https://twitter.com/kaanmtl17"><code>@kaanmtl17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>@kaanmutlu17</code></a>
+              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-instagram"/> Instagram: <a href="https://instagram.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
