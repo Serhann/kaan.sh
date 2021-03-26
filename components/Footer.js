@@ -12,7 +12,7 @@ const ExternalLink = ({ href, children }) => (
 export default function Footer() {
   return (
     <footer className="mb-8 text-gray-600 dark:text-gray-400 flex flex-col items-center">
-      <p><small>Made With 🖤 by Kaan using Next.JS and TailwindCSS</small></p>
+      <p><small>Made with 🖤 by Kaan using Next.JS and TailwindCSS.</small></p>
     </footer>
   );
 }
