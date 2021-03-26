@@ -14,7 +14,7 @@ const ExternalLink = ({ href, children }) => (
   </a>
 );
 
-export default function Home() {
+export default function Portfoy() {
   return (
     <LayoutGA>
       <body className="text-white bg-white dark:bg-black dark:text-black">
