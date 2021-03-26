@@ -40,6 +40,7 @@ export default function Portfoy() {
               kurdihaber.com
               </h2>
           </div>
+    </div>
         </Container>
       </body>
     </LayoutGA>
