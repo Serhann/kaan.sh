@@ -104,8 +104,8 @@ export default function Home() {
     <div class="flex items-center space-x-5 border-2 w-96 border-black h-24 rounded-2xl">
         <img src={lastFM.song.art} class="rounded-lg ml-4 w-16 h-16" />
         <div class="flex flex-col">
-          <h1>Listening to <strong>{lastFM.song.name}</strong> by <strong>{lastFM.song.artist}</strong></h1>
-          <h1 class="text-sm">Spotify</h1>
+          <h1 className="text-black-600">Listening to <strong>{lastFM.song.name}</strong> by <strong>{lastFM.song.artist}</strong></h1>
+          <h1 className="text-sm text-black-600">Spotify</h1>
         </div>
       </div>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
