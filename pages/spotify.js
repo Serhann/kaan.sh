@@ -1,6 +1,6 @@
 import { useLastFM } from 'use-last-fm';
 
-const CurrentlyPlaying = () => {
+export default function CurrentlyPlaying() {
   const lastFM = useLastFM('kaanmutlu', 'd5f4757d3e893690cac17f3579841f33');
 
   if (lastFM.status !== 'playing') {
