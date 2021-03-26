@@ -142,9 +142,9 @@ export default function Home() {
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="lock-closed-outline"/> PGP Fingerprint: <a href="https://kaan.sh/kaanmutlu.asc"><code>ADFE 6659 69BA B089 F1A0 C96E A62A E36C 4EA5 8164</code></a>
               </h2>
+      <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
             </div>
           </div>
-          <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
         </Container>
       </body>
     </LayoutGA>
