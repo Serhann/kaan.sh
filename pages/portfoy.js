@@ -35,8 +35,8 @@ export default function Portfoy() {
                 Domain Portföyü
               </h1>
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
-              kolayodev.com<br>
-              teknolojiturkiye.com<br>
+              kolayodev.com<br />
+              teknolojiturkiye.com<br />
               kurdihaber.com
               </h2>
           </div>
