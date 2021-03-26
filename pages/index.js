@@ -102,13 +102,13 @@ export default function Home() {
               CEO & Founder of Sanvia Digital | Software Developer
               </h2>
     
-    <div class="mb-10 flex items-center space-x-5 border-2 w-96 border-black h-24 rounded-2xl">
+    <span><div class="mb-10 flex items-center space-x-5 border-2 w-96 border-black h-24 rounded-2xl">
         <img src={lastFM.song.art} class="rounded-lg ml-4 w-16 h-16" />
         <div class="flex flex-col">
           <h1 class="text-black">Listening to <strong>{lastFM.song.name}</strong> by <strong>{lastFM.song.artist}</strong></h1>
-          <span><h1 class="text-sm text-black"><img src="spotify.svg" width="12" height="12" /> Spotify</h1></span>
+          <h1 class="text-sm text-black"><img src="spotify.svg" width="12" height="12" /> Spotify</h1>
     </div>
-      </div>
+      </div></span>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 About
               </h1>
@@ -118,6 +118,7 @@ export default function Home() {
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 Contact
               </h1>
+          <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js" />
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
@@ -142,7 +143,6 @@ export default function Home() {
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="lock-closed-outline"/> PGP Fingerprint: <a href="https://kaan.sh/kaanmutlu.asc"><code>ADFE 6659 69BA B089 F1A0 C96E A62A E36C 4EA5 8164</code></a>
               </h2>
-      <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js" />
             </div>
           </div>
         </Container>
