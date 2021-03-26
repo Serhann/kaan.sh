@@ -2,7 +2,6 @@ import Head from "next/head";
 import Container from "@/components/Container";
 import { NextSeo } from "next-seo";
 import LayoutGA from "@/components/LayoutGA";
-import { useLastFM } from 'use-last-fm';
 
 const ExternalLink = ({ href, children }) => (
   <a
@@ -16,11 +15,6 @@ const ExternalLink = ({ href, children }) => (
 );
 
 export default function Home() {
-  const lastFM = useLastFM('kaanmutlu', 'd5f4757d3e893690cac17f3579841f33');
-  
-   if (lastFM.status !== 'playing') {
-    return <p>Not listening to anything</p>;
-  }
   return (
     <LayoutGA>
       <body className="text-white bg-white dark:bg-black dark:text-black">
@@ -101,14 +95,7 @@ export default function Home() {
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
               CEO & Founder of Sanvia Digital | Software Developer
               </h2>
-    
-    <span><div class="mb-10 flex items-center space-x-5 border-2 w-96 border-black h-24 rounded-2xl">
-        <img src={lastFM.song.art} class="rounded-lg ml-4 w-16 h-16" />
-        <div class="flex flex-col">
-          <h1 class="text-black">Listening to <strong>{lastFM.song.name}</strong> by <strong>{lastFM.song.artist}</strong></h1>
-          <h1 class="text-sm text-black"><img src="spotify.svg" width="12" height="12" /> Spotify</h1>
-    </div>
-      </div></span>
+
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 About
               </h1>
