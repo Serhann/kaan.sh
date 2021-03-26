@@ -90,7 +90,7 @@ export default function Home() {
               Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the Ceo & Founder of the Sanvia Digital media company. You can click the mail icon to contact me.
               </h2>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
-                Contact & More
+                Contact
               </h1>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
