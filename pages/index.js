@@ -105,16 +105,16 @@ export default function Home() {
                 Contact
               </h1>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
+              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>@kaanmutlu</code></a>
+              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>kaanmutlu</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-twitter"/> Twitter: <a href="https://twitter.com/kaanmtl17"><code>@kaanmtl17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>@kaanmutlu17</code></a>
+              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-instagram"/> Instagram: <a href="https://instagram.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
