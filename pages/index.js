@@ -34,20 +34,6 @@ export default function Home() {
                 Hey, I'm Kaan <span className="emoji-wave">👋</span>
               </h1>
               <div className="flex mb-4 space-x-4">
-    <ExternalLink href="https://twitter.com/kaanmtl17">
-                  <span className="sr-only">Twitter</span>
-                  <svg className="w-5 h-5" viewBox="0 0 24 24">
-                    <g
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    >
-                      <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z" />
-                    </g>
-                  </svg>
-                </ExternalLink>
                 <ExternalLink href="https://github.com/kaanmutlu17">
                   <span className="sr-only">Github</span>
                   <svg className="w-5 h-5" viewBox="0 0 24 24">
@@ -62,8 +48,8 @@ export default function Home() {
                     </g>
                   </svg>
                 </ExternalLink>
-                <ExternalLink href="https://keybase.io/kaanmutlu">
-                  <span className="sr-only">Keybase</span>
+                <ExternalLink href="https://www.linkedin.com/in/kaanmutlu17/">
+                  <span className="sr-only">LinkedIn</span>
                   <svg className="w-5 h-5" viewBox="0 0 24 24">
                     <g
                       fill="none"
@@ -72,7 +58,9 @@ export default function Home() {
                       strokeLinecap="round"
                       strokeLinejoin="round"
                     >
-                      <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4" />
+                      <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
+                      <rect x="2" y="9" width="4" height="12" />
+                      <circle cx="4" cy="4" r="2" />
                     </g>
                   </svg>
                 </ExternalLink>
@@ -99,22 +87,22 @@ export default function Home() {
                 About
               </h1>
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
-              Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the CEO & Founder of Sanvia Digital media company. You can click the mail icon to contact me.
+              Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the Ceo & Founder of the Sanvia Digital media company. You can click the mail icon to contact me.
               </h2>
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
-                Contact
+                Contact & More
               </h1>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>kaanmutlu17</code></a>
+              <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>kaanmutlu</code></a>
+              <ion-icon name="key"/> Keybase: <a href="https://keybase.io/kaanmutlu"><code>@kaanmutlu</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-twitter"/> Twitter: <a href="https://twitter.com/kaanmtl17"><code>@kaanmtl17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>kaanmutlu17</code></a>
+              <ion-icon name="logo-linkedin"/> LinkedIn: <a href="https://linkedin.com/in/kaanmutlu17"><code>@kaanmutlu17</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-instagram"/> Instagram: <a href="https://instagram.com/kaanmutlu17"><code>@kaanmutlu17</code></a>
@@ -124,6 +112,9 @@ export default function Home() {
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="mail"/> E-Mail: <a href="mailto:kaan@kaan.sh"><code>kaan@kaan.sh</code></a>
+              </h2>
+              <h2 className="mb-1 text-gray-600 dark:text-gray-400">
+              <ion-icon name="lock-closed-outline"/> PGP Fingerprint: <a href="https://kaan.sh/kaanmutlu.asc"><code>ADFE 6659 69BA B089 F1A0 C96E A62A E36C 4EA5 8164</code></a>
               </h2>
             </div>
           </div>
