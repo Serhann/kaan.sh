@@ -24,6 +24,7 @@ export default function Home() {
               <title>kaan.sh</title>
               <link rel="icon" href="./favicon.png" />
               <meta name="keywords" content="Kaan Mutlu"></meta>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js" />
             </Head>
             <NextSeo
               title="Kaan Mutlu"
@@ -105,7 +106,6 @@ export default function Home() {
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 Contact
               </h1>
-          <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js" />
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
               <ion-icon name="logo-github"/> Github: <a href="https://github.com/kaanmutlu17"><code>kaanmutlu17</code></a>
               </h2>
