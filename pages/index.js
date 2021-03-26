@@ -128,7 +128,7 @@ export default function Home() {
               <ion-icon name="mail"/> E-Mail: <a href="mailto:kaan@kaan.sh"><code>kaan@kaan.sh</code></a>
               </h2>
               <h2 className="mb-1 text-gray-600 dark:text-gray-400">
-              <ion-icon name="lock-closed-outline"/> PGP Fingerprint: <a href="https://kaan.sh/kaanmutlu.asc"><code>ADFE 6659 69BA B089 F1A0 C96E A62A E36C 4EA5 8164</code></a>
+              <ion-icon name="lock-closed"/> PGP Fingerprint: <a href="https://kaan.sh/kaanmutlu.asc"><code>ADFE 6659 69BA B089 F1A0 C96E A62A E36C 4EA5 8164</code></a>
               </h2>
             </div>
           </div>
