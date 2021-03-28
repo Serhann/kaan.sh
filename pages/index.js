@@ -93,10 +93,13 @@ export default function Home() {
                   </svg>
                 </ExternalLink>
               </div>
+    
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
               CEO & Founder of Sanvia Digital | Software Developer
               </h2>
  
+<iframe src="https://spotifypresence.armagan.rest/embed?id=524681391959441419&theme=custom&theme-bg=000000&theme-fg=FFFFFF" width="768" height="71" frameborder="0" allowTransparency="true" />
+    
               <h1 className="mb-4 text-3xl font-bold tracking-tight text-black md:text-5xl dark:text-white">
                 About
               </h1>
