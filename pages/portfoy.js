@@ -36,6 +36,7 @@ export default function Portfoy() {
               </h1>
               <h2 className="mb-10 text-gray-600 dark:text-gray-400">
               kolayodev.com<br />
+              yasalmevzuat.com<br />
               teknolojiturkiye.com<br />
               kurdihaber.com
               </h2>
