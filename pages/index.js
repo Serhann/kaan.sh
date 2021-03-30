@@ -25,7 +25,7 @@ export default function Home() {
   const [song, setSong] = useState({ name: null, artist: null, photo: null, playing: false });
 
   useEffect(async () => {
-    const res = await fetch("https://api.lanyard.rest/v1/users/182292736790102017");
+    const res = await fetch("https://api.lanyard.rest/v1/users/524681391959441419");
 
     if (res.ok) {
       const parsedResponse = (await res.json());
